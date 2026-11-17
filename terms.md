@@ -1,3 +1,6 @@
+---
+---
+
 TERMS OF SERVICE AGREEMENT
 
 This Terms of Service Agreement  is entered into between [Atharv Patwari] ("Bot Owner") and the user  of the Nyxor Discord bot.
